@@ -7,12 +7,8 @@
 
 # Python dependencies
 
-- autogent_agentchat
-- autogen-ext
-- openai
-- tiktoken
-- python-dotenv
-- arxiv
+`pip install autogen_agentchat autogen-ext openai tiktoken python-dotenv arxiv yfinance matplotlib pytz numpy pandas python-dotenv requests bs4
+`
 
 # References
 
